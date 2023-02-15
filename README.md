@@ -18,6 +18,7 @@ En outre, l'explicabilité peut également aider à détecter des sources potent
 
 # A propos du dataset 
 Source : https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
 Le dataset "Brain Tumor Classification MRI" disponible sur Kaggle comprend des images d'IRM du cerveau étiquetées pour indiquer si elles contiennent ou non une tumeur. Les données sont organisées en deux dossiers: "yes" et "no" qui contiennent respectivement 253 et 98 images d'IRM de cerveau.
 
 En tant que data analyst, il est important de comprendre les caractéristiques de ce dataset pour pouvoir en tirer le meilleur parti pour notre analyse.
